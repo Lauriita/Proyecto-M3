@@ -1,8 +1,8 @@
 ﻿Public Class Form1
 
-    Dim n1 As Integer
-    Dim n2 As Integer
-    Dim res As Integer
+    Dim n1 As Decimal
+    Dim n2 As Decimal
+    Dim res As Decimal
 
 
 
